@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #4a2604;
+}
+
+
+
+body{
+
+    background-color: #f4f1c9;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  footer{
+    text-align: center;
+  }
+  h1, h2, h3,.hg, .sec{
+    text-align: center;
+  }
+  .menu{
+   
+  }
